@@ -1,0 +1,7 @@
+(defun sierpinski (n)
+  (do ((r n (1- r)))
+      ((minusp r))
+    (princ (make-string (1+ r) :initial-element #\space))
+    (dotimes (c (- n r) (terpri))
+      (format t "~:[ _~; *~]" (zerop (logand c r))))))
+(sierpinski 32)
