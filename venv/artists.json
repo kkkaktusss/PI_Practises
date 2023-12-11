@@ -1,0 +1,1121 @@
+{
+    "artists": [
+        {
+            "name":"Green Day",
+            "id":"084308bd-1654-436f-ba03-df6697104e19",
+            "isnis":["0000000122711282"],
+            "type-id":"e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "gender-id":null,
+            "begin_area":
+            {
+                "sort-name":"Berkeley",
+                "type-id":null,
+                "disambiguation":"",
+                "type":null,
+                "id":"f9719692-c39a-4d9c-bf8c-dd4035b09534",
+                "name":"Berkeley"
+            },
+            "gender":null,
+            "end-area":null,
+            "ipis":[],
+            "life-span":
+            {
+                "end":null,
+                "begin":"1989",
+                "ended":false
+            },
+            "area":
+            {
+                "sort-name":"United States",
+                "id":"489ce91b-6658-3307-9877-795b68554c98",
+                "type":null,
+                "name":"United States",
+                "disambiguation":"",
+                "type-id":null,
+                "iso-3166-1-codes":["US"]
+            },
+            "begin-area":
+            {
+                "sort-name":"Berkeley",
+                "type-id":null,
+                "disambiguation":"",
+                "type":null,
+                "id":"f9719692-c39a-4d9c-bf8c-dd4035b09534",
+                "name":"Berkeley"
+            },
+            "type":"Group",
+            "disambiguation":"",
+            "sort-name":"Green Day",
+            "country":"US",
+            "end_area":null,
+            "aliases":
+            [
+                {
+                "ended":false,
+                "name":"Greenday",
+                "type":null,
+                "type-id":null,
+                "primary":null,
+                "sort-name":"Greenday",
+                "begin":null,
+                "locale":null,
+                "end":null
+                }
+            ]
+        },
+        {
+            "sort-name": "Papa Roach",
+            "country": "US",
+            "end_area": null,
+            "life-span": {
+              "end": null,
+              "ended": false,
+              "begin": "1993"
+            },
+            "area": {
+              "sort-name": "United States",
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": null,
+              "name": "United States",
+              "disambiguation": "",
+              "type-id": null,
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            },
+            "begin-area": {
+              "sort-name": "Vacaville",
+              "type": null,
+              "disambiguation": "",
+              "id": "a760e763-fd86-406e-a496-7e99f5f7ac45",
+              "name": "Vacaville",
+              "type-id": null
+            },
+            "disambiguation": "",
+            "type": "Group",
+            "aliases": [],
+            "gender-id": null,
+            "name": "Papa Roach",
+            "id": "c5eb9407-caeb-4303-b383-6929aa94021c",
+            "isnis": [
+              "0000000123373190"
+            ],
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "ipis": [],
+            "begin_area": {
+              "sort-name": "Vacaville",
+              "type": null,
+              "disambiguation": "",
+              "id": "a760e763-fd86-406e-a496-7e99f5f7ac45",
+              "name": "Vacaville",
+              "type-id": null
+            },
+            "gender": null,
+            "end-area": null
+          },
+          {
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "disambiguation": "American rock band",
+            "gender": null,
+            "isnis": [
+              "0000000123251302"
+            ],
+            "aliases": [
+              {
+                "primary": null,
+                "type": null,
+                "sort-name": "Hybrid Theory",
+                "locale": null,
+                "name": "Hybrid Theory",
+                "ended": false,
+                "end": null,
+                "type-id": null,
+                "begin": null
+              },
+              {
+                "begin": null,
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "end": null,
+                "ended": false,
+                "name": "Limkin Park",
+                "locale": null,
+                "type": "Search hint",
+                "sort-name": "Limkin Park",
+                "primary": null
+              },
+              {
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "begin": null,
+                "end": null,
+                "ended": false,
+                "name": "Lincoln Park",
+                "locale": null,
+                "primary": null,
+                "type": "Search hint",
+                "sort-name": "Lincoln Park"
+              },
+              {
+                "locale": null,
+                "primary": null,
+                "type": null,
+                "sort-name": "Xero",
+                "end": null,
+                "type-id": null,
+                "begin": null,
+                "name": "Xero",
+                "ended": false
+              },
+              {
+                "primary": null,
+                "type": "Search hint",
+                "sort-name": "聯合公園",
+                "locale": null,
+                "name": "聯合公園",
+                "ended": false,
+                "end": null,
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "begin": null
+              }
+            ],
+            "id": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+            "sort-name": "Linkin Park",
+            "end-area": null,
+            "begin_area": {
+              "type-id": null,
+              "disambiguation": "",
+              "id": "ab42be96-8579-4952-b29a-5cbdf7227e7e",
+              "sort-name": "Agoura Hills",
+              "type": null,
+              "name": "Agoura Hills"
+            },
+            "end_area": null,
+            "begin-area": {
+              "type-id": null,
+              "disambiguation": "",
+              "id": "ab42be96-8579-4952-b29a-5cbdf7227e7e",
+              "sort-name": "Agoura Hills",
+              "type": null,
+              "name": "Agoura Hills"
+            },
+            "country": "US",
+            "name": "Linkin Park",
+            "type": "Group",
+            "ipis": [],
+            "life-span": {
+              "ended": false,
+              "end": null,
+              "begin": "1999"
+            },
+            "gender-id": null,
+            "area": {
+              "name": "United States",
+              "type-id": null,
+              "iso-3166-1-codes": [
+                "US"
+              ],
+              "disambiguation": "",
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "sort-name": "United States",
+              "type": null
+            }
+          },
+          {
+            "end_area": null,
+            "disambiguation": "Christian rock band",
+            "aliases": [],
+            "type": "Group",
+            "end-area": null,
+            "begin_area": {
+              "type-id": null,
+              "disambiguation": "",
+              "sort-name": "Memphis",
+              "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+              "type": null,
+              "name": "Memphis"
+            },
+            "begin-area": {
+              "type-id": null,
+              "disambiguation": "",
+              "sort-name": "Memphis",
+              "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+              "type": null,
+              "name": "Memphis"
+            },
+            "gender": null,
+            "sort-name": "Skillet",
+            "id": "16a43d5e-c52d-4eaa-9c3b-00b2c1d8e816",
+            "isnis": [
+              "0000000107256453"
+            ],
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "sort-name": "United States",
+              "name": "United States",
+              "type": null,
+              "type-id": null,
+              "iso-3166-1-codes": [
+                "US"
+              ],
+              "disambiguation": ""
+            },
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "life-span": {
+              "ended": false,
+              "begin": "1996",
+              "end": null
+            },
+            "name": "Skillet",
+            "ipis": [],
+            "gender-id": null
+          },
+          {
+            "name": "blink‐182",
+            "country": "US",
+            "ipis": [],
+            "type": "Group",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": null,
+              "sort-name": "United States",
+              "name": "United States",
+              "type-id": null,
+              "disambiguation": "",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            },
+            "life-span": {
+              "ended": false,
+              "begin": "1992-08-01",
+              "end": null
+            },
+            "gender-id": null,
+            "disambiguation": "",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "end-area": null,
+            "sort-name": "blink‐182",
+            "id": "0743b15a-3c32-48c8-ad58-cb325350befa",
+            "aliases": [
+              {
+                "type-id": null,
+                "begin": null,
+                "end": null,
+                "ended": false,
+                "name": "Blink 182",
+                "locale": null,
+                "primary": null,
+                "sort-name": "Blink 182",
+                "type": null
+              },
+              {
+                "primary": null,
+                "type": null,
+                "sort-name": "Blink 182°",
+                "locale": null,
+                "ended": false,
+                "name": "Blink 182°",
+                "type-id": null,
+                "begin": null,
+                "end": null
+              },
+              {
+                "name": "Blink‐182",
+                "ended": false,
+                "end": null,
+                "type-id": null,
+                "begin": null,
+                "primary": null,
+                "type": null,
+                "sort-name": "Blink‐182",
+                "locale": null
+              },
+              {
+                "locale": null,
+                "sort-name": "blink 182",
+                "type": null,
+                "primary": null,
+                "begin": null,
+                "type-id": null,
+                "end": null,
+                "ended": false,
+                "name": "blink 182"
+              },
+              {
+                "locale": null,
+                "sort-name": "blink ‐ 182",
+                "type": null,
+                "primary": null,
+                "end": null,
+                "begin": null,
+                "type-id": null,
+                "name": "blink ‐ 182",
+                "ended": false
+              },
+              {
+                "locale": null,
+                "type": null,
+                "sort-name": "blink182",
+                "primary": null,
+                "end": null,
+                "begin": null,
+                "type-id": null,
+                "name": "blink182",
+                "ended": false
+              }
+            ],
+            "isnis": [
+              "0000000123317383"
+            ],
+            "gender": null,
+            "end_area": null,
+            "begin-area": {
+              "disambiguation": "",
+              "type-id": null,
+              "type": null,
+              "sort-name": "Poway",
+              "name": "Poway",
+              "id": "912aa3c4-e5ee-4c88-8e74-1d3727169d69"
+            },
+            "begin_area": {
+              "disambiguation": "",
+              "type-id": null,
+              "type": null,
+              "sort-name": "Poway",
+              "name": "Poway",
+              "id": "912aa3c4-e5ee-4c88-8e74-1d3727169d69"
+            }
+          },
+          {
+            "area": {
+              "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+              "sort-name": "Canada",
+              "name": "Canada",
+              "type": null,
+              "type-id": null,
+              "iso-3166-1-codes": [
+                "CA"
+              ],
+              "disambiguation": ""
+            },
+            "isnis": [
+              "0000000122539531"
+            ],
+            "country": "CA",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "life-span": {
+              "begin": "1996",
+              "end": null,
+              "ended": false
+            },
+            "name": "Sum 41",
+            "ipis": [],
+            "gender-id": null,
+            "disambiguation": "",
+            "end_area": null,
+            "aliases": [
+              {
+                "ended": false,
+                "primary": null,
+                "locale": null,
+                "begin": null,
+                "type-id": null,
+                "type": null,
+                "name": "Sum-41",
+                "sort-name": "Sum-41",
+                "end": null
+              },
+              {
+                "locale": null,
+                "begin": null,
+                "type-id": null,
+                "ended": false,
+                "primary": null,
+                "end": null,
+                "sort-name": "Sum41",
+                "type": null,
+                "name": "Sum41"
+              }
+            ],
+            "type": "Group",
+            "end-area": null,
+            "begin_area": {
+              "disambiguation": "",
+              "type-id": null,
+              "name": "Ajax",
+              "type": null,
+              "id": "595619e1-3cd4-467c-b79e-75ff9ed72d9b",
+              "sort-name": "Ajax"
+            },
+            "begin-area": {
+              "disambiguation": "",
+              "type-id": null,
+              "name": "Ajax",
+              "type": null,
+              "id": "595619e1-3cd4-467c-b79e-75ff9ed72d9b",
+              "sort-name": "Ajax"
+            },
+            "gender": null,
+            "sort-name": "Sum 41",
+            "id": "f2eef649-a6d5-4114-afba-e50ab26254d2"
+          },
+          {
+            "ipis": [],
+            "begin_area": null,
+            "gender": "Male",
+            "end-area": null,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "id": "8c3b16f0-5214-4b4d-9370-b8cf4449e0e9",
+            "name": "Bugus",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "isnis": [],
+            "aliases": [],
+            "sort-name": "Bugus",
+            "country": null,
+            "end_area": null,
+            "life-span": {
+              "ended": false,
+              "begin": null,
+              "end": null
+            },
+            "area": {
+              "type-id": null,
+              "id": "26e0e534-19ea-4645-bfb3-1aa4e83a4046",
+              "type": null,
+              "name": "Atlanta",
+              "disambiguation": "",
+              "sort-name": "Atlanta"
+            },
+            "begin-area": null,
+            "disambiguation": "",
+            "type": "Person"
+          },
+          {
+            "begin_area": {
+              "disambiguation": "",
+              "iso-3166-2-codes": [
+                "DE-BE"
+              ],
+              "type-id": null,
+              "name": "Berlin",
+              "type": null,
+              "sort-name": "Berlin",
+              "id": "c9ac1239-e832-41bc-9930-e252a1fd1105"
+            },
+            "begin-area": {
+              "disambiguation": "",
+              "iso-3166-2-codes": [
+                "DE-BE"
+              ],
+              "type-id": null,
+              "name": "Berlin",
+              "type": null,
+              "sort-name": "Berlin",
+              "id": "c9ac1239-e832-41bc-9930-e252a1fd1105"
+            },
+            "end_area": null,
+            "gender": null,
+            "isnis": [
+              "0000000115265640"
+            ],
+            "aliases": [
+              {
+                "locale": null,
+                "primary": null,
+                "type": null,
+                "sort-name": "Ramms+ein",
+                "type-id": null,
+                "begin": null,
+                "end": null,
+                "ended": false,
+                "name": "Ramms+ein"
+              },
+              {
+                "locale": null,
+                "type": null,
+                "sort-name": "Rammstien",
+                "primary": null,
+                "end": null,
+                "begin": null,
+                "type-id": null,
+                "name": "Rammstien",
+                "ended": false
+              },
+              {
+                "begin": null,
+                "type-id": null,
+                "end": null,
+                "ended": false,
+                "name": "Ramstein",
+                "locale": null,
+                "type": null,
+                "sort-name": "Ramstein",
+                "primary": null
+              },
+              {
+                "type": null,
+                "sort-name": "Tempelprayers",
+                "primary": null,
+                "locale": null,
+                "ended": false,
+                "name": "Tempelprayers",
+                "begin": null,
+                "type-id": null,
+                "end": null
+              },
+              {
+                "ended": false,
+                "name": "ラムシュタイン",
+                "begin": null,
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "end": null,
+                "sort-name": "ラムシュタイン",
+                "type": "Artist name",
+                "primary": true,
+                "locale": "ja"
+              }
+            ],
+            "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+            "sort-name": "Rammstein",
+            "end-area": null,
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "disambiguation": "",
+            "gender-id": null,
+            "life-span": {
+              "ended": false,
+              "end": null,
+              "begin": "1994-01"
+            },
+            "area": {
+              "name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ],
+              "disambiguation": "",
+              "type-id": null,
+              "type": null,
+              "sort-name": "Germany",
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad"
+            },
+            "ipis": [
+              "00253653564"
+            ],
+            "type": "Group",
+            "country": "DE",
+            "name": "Rammstein"
+          },
+          {
+            "gender": "Male",
+            "begin_area": null,
+            "begin-area": null,
+            "end-area": null,
+            "type": "Person",
+            "id": "9c8ab6af-c34b-435a-8dd5-0889d3f4f4d9",
+            "sort-name": "Morray",
+            "end_area": null,
+            "disambiguation": "Morae Ruffin",
+            "aliases": [],
+            "name": "Morray",
+            "life-span": {
+              "ended": false,
+              "begin": null,
+              "end": null
+            },
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "ipis": [],
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "area": null,
+            "isnis": [],
+            "country": null
+          },
+          {
+            "aliases": [],
+            "gender": null,
+            "name": "LILDRUGHILL",
+            "life-span": {
+              "end": null,
+              "begin": null,
+              "ended": false
+            },
+            "begin-area": null,
+            "end-area": null,
+            "end_area": null,
+            "type": null,
+            "sort-name": "LILDRUGHILL",
+            "begin_area": null,
+            "area": null,
+            "type-id": null,
+            "isnis": [],
+            "id": "7651b34b-3b0a-4db1-a78f-5c50b466e451",
+            "country": null,
+            "disambiguation": "",
+            "ipis": [],
+            "gender-id": null
+          },
+          {
+            "sort-name": "ROCKET",
+            "country": null,
+            "end_area": null,
+            "life-span": {
+              "ended": false,
+              "begin": null,
+              "end": null
+            },
+            "area": {
+              "type": null,
+              "iso-3166-2-codes": [
+                "RU-MOW"
+              ],
+              "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+              "name": "Moscow",
+              "disambiguation": "",
+              "type-id": null,
+              "sort-name": "Moscow"
+            },
+            "begin-area": {
+              "type-id": null,
+              "name": "Russia",
+              "type": null,
+              "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+              "disambiguation": "",
+              "sort-name": "Russia",
+              "iso-3166-1-codes": [
+                "RU"
+              ]
+            },
+            "type": "Person",
+            "disambiguation": "russian rapper",
+            "aliases": [],
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "id": "9e2f71c3-1e8d-4fec-81af-d984bb88eb94",
+            "name": "ROCKET",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "isnis": [],
+            "ipis": [],
+            "begin_area": {
+              "type-id": null,
+              "name": "Russia",
+              "type": null,
+              "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+              "disambiguation": "",
+              "sort-name": "Russia",
+              "iso-3166-1-codes": [
+                "RU"
+              ]
+            },
+            "gender": "Male",
+            "end-area": null
+          },
+          {
+            "life-span": {
+              "begin": "1991-12-22",
+              "ended": false,
+              "end": null
+            },
+            "name": "DaBaby",
+            "begin-area": {
+              "disambiguation": "",
+              "type": null,
+              "sort-name": "Cleveland",
+              "type-id": null,
+              "id": "7b2ca1e7-e7f6-4155-881d-c660a45c11e8",
+              "name": "Cleveland"
+            },
+            "end-area": null,
+            "gender": "Male",
+            "aliases": [
+              {
+                "locale": null,
+                "sort-name": "Baby Jesus",
+                "begin": null,
+                "type": "Artist name",
+                "name": "Baby Jesus",
+                "primary": null,
+                "end": null,
+                "ended": false,
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+              },
+              {
+                "name": "Da Baby",
+                "primary": null,
+                "end": null,
+                "ended": false,
+                "type-id": null,
+                "sort-name": "Baby, Da",
+                "locale": null,
+                "begin": null,
+                "type": null
+              },
+              {
+                "ended": false,
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "primary": null,
+                "end": null,
+                "name": "DaBaby",
+                "begin": null,
+                "type": "Artist name",
+                "sort-name": "DaBaby",
+                "locale": null
+              },
+              {
+                "type": null,
+                "begin": null,
+                "sort-name": "Kirk, Jonathan",
+                "locale": null,
+                "ended": false,
+                "type-id": null,
+                "name": "Jonathan Kirk",
+                "primary": null,
+                "end": null
+              },
+              {
+                "ended": false,
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "end": null,
+                "primary": null,
+                "name": "Jonathan Lyndale Kirk",
+                "type": "Legal name",
+                "begin": null,
+                "locale": null,
+                "sort-name": "Kirk, Jonathan Lyndale"
+              }
+            ],
+            "sort-name": "DaBaby",
+            "end_area": null,
+            "type": "Person",
+            "id": "87ae83df-6173-40cc-a0f2-bad543faa6aa",
+            "isnis": [
+              "0000000476186876"
+            ],
+            "country": "US",
+            "area": {
+              "sort-name": "United States",
+              "type": null,
+              "disambiguation": "",
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ],
+              "type-id": null
+            },
+            "begin_area": {
+              "disambiguation": "",
+              "type": null,
+              "sort-name": "Cleveland",
+              "type-id": null,
+              "id": "7b2ca1e7-e7f6-4155-881d-c660a45c11e8",
+              "name": "Cleveland"
+            },
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "ipis": [
+              "00772871504"
+            ],
+            "disambiguation": "US rapper Jonathan Lyndale Kirk"
+          },
+          {
+            "begin_area": {
+              "type-id": null,
+              "name": "Toronto",
+              "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+              "sort-name": "Toronto",
+              "disambiguation": "",
+              "type": null
+            },
+            "begin-area": {
+              "type-id": null,
+              "name": "Toronto",
+              "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+              "sort-name": "Toronto",
+              "disambiguation": "",
+              "type": null
+            },
+            "end_area": null,
+            "gender": "Male",
+            "type": "Person",
+            "aliases": [
+              {
+                "primary": null,
+                "ended": false,
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Aubrey Drake Graham",
+                "begin": null,
+                "type": "Legal name",
+                "locale": null,
+                "end": null,
+                "sort-name": "Graham, Aubrey Drake"
+              },
+              {
+                "type": "Artist name",
+                "begin": null,
+                "ended": false,
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "C. Papi",
+                "primary": null,
+                "end": null,
+                "sort-name": "C. Papi",
+                "locale": null
+              },
+              {
+                "begin": null,
+                "type": null,
+                "primary": null,
+                "ended": false,
+                "type-id": null,
+                "name": "Champagne Papi",
+                "end": null,
+                "sort-name": "Champagne Papi",
+                "locale": null
+              },
+              {
+                "ended": false,
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ドレイク",
+                "primary": true,
+                "type": "Artist name",
+                "begin": null,
+                "locale": "ja_JP",
+                "end": null,
+                "sort-name": "Drake"
+              }
+            ],
+            "disambiguation": "Canadian rapper",
+            "end-area": null,
+            "isnis": [
+              "000000012032246X"
+            ],
+            "area": {
+              "type-id": null,
+              "name": "Canada",
+              "disambiguation": "",
+              "type": null,
+              "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+              "iso-3166-1-codes": [
+                "CA"
+              ],
+              "sort-name": "Canada"
+            },
+            "ipis": [
+              "00529397022"
+            ],
+            "country": "CA",
+            "sort-name": "Drake",
+            "name": "Drake",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "life-span": {
+              "end": null,
+              "begin": "1986-10-24",
+              "ended": false
+            },
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+          },
+          {
+            "sort-name": "Scott, Travis",
+            "country": "US",
+            "end_area": null,
+            "life-span": {
+              "end": null,
+              "ended": false,
+              "begin": "1991-04-30"
+            },
+            "area": {
+              "sort-name": "United States",
+              "type-id": null,
+              "type": null,
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "disambiguation": "",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            },
+            "begin-area": {
+              "sort-name": "Houston",
+              "type": null,
+              "name": "Houston",
+              "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+              "disambiguation": "",
+              "type-id": null
+            },
+            "disambiguation": "US rapper",
+            "type": "Person",
+            "aliases": [
+              {
+                "begin": null,
+                "locale": null,
+                "end": null,
+                "ended": false,
+                "name": "Jacques Berman Webster II",
+                "type": "Legal name",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "primary": null,
+                "sort-name": "Webster, Jacques Berman, II"
+              },
+              {
+                "begin": null,
+                "end": null,
+                "locale": null,
+                "type": "Search hint",
+                "name": "Jacques Webster",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "primary": null,
+                "ended": false,
+                "sort-name": "Jacques Webster"
+              },
+              {
+                "ended": false,
+                "name": "T. Scott",
+                "type": null,
+                "type-id": null,
+                "primary": null,
+                "sort-name": "Scott, T.",
+                "begin": null,
+                "locale": null,
+                "end": null
+              },
+              {
+                "begin": null,
+                "end": null,
+                "locale": null,
+                "type-id": null,
+                "primary": null,
+                "name": "Travi$ Scot",
+                "type": null,
+                "ended": false,
+                "sort-name": "Scot, Travi$"
+              },
+              {
+                "sort-name": "Scott, Travis",
+                "type": "Artist name",
+                "name": "Travi$ Scott",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "primary": null,
+                "ended": false,
+                "end": null,
+                "locale": null,
+                "begin": null
+              },
+              {
+                "sort-name": "$cott, Travis",
+                "name": "Travis $cott",
+                "type": null,
+                "primary": null,
+                "type-id": null,
+                "ended": false,
+                "locale": null,
+                "end": null,
+                "begin": null
+              },
+              {
+                "end": null,
+                "locale": null,
+                "begin": null,
+                "sort-name": "トラヴィス・スコット",
+                "type-id": null,
+                "primary": null,
+                "name": "トラヴィス・スコット",
+                "type": null,
+                "ended": false
+              }
+            ],
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "id": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+            "name": "Travis Scott",
+            "isnis": [
+              "0000000384091917"
+            ],
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "ipis": [
+              "00682273039"
+            ],
+            "gender": "Male",
+            "begin_area": {
+              "sort-name": "Houston",
+              "type": null,
+              "name": "Houston",
+              "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+              "disambiguation": "",
+              "type-id": null
+            },
+            "end-area": null
+          },
+          {
+            "ipis": [
+              "00338225566"
+            ],
+            "end-area": null,
+            "begin_area": {
+              "sort-name": "St. Louis",
+              "type": null,
+              "id": "759f9567-9107-40ef-a825-e57824a62e70",
+              "name": "St. Louis",
+              "disambiguation": "",
+              "type-id": null
+            },
+            "gender": "Male",
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "isnis": [
+              "0000000063087968"
+            ],
+            "name": "Akon",
+            "id": "1138a764-2212-4d0a-b02d-0dc14df91e08",
+            "aliases": [
+              {
+                "type": "Legal name",
+                "name": "Aliaume Damala Badara Akon Thiam",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "primary": null,
+                "ended": false,
+                "sort-name": "Thiam, Aliaume Damala Badara Akon",
+                "begin": null,
+                "locale": null,
+                "end": null
+              },
+              {
+                "end": null,
+                "locale": null,
+                "begin": null,
+                "sort-name": "Thiam, Aliaune",
+                "ended": false,
+                "name": "Aliaune Thiam",
+                "type": "Artist name",
+                "primary": null,
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+              }
+            ],
+            "country": "SN",
+            "end_area": null,
+            "sort-name": "Akon",
+            "type": "Person",
+            "disambiguation": "US singer and producer",
+            "area": {
+              "sort-name": "Senegal",
+              "type-id": null,
+              "type": null,
+              "id": "122bb81f-191e-3798-8be2-4b54ffd7ffa4",
+              "disambiguation": "",
+              "name": "Senegal",
+              "iso-3166-1-codes": [
+                "SN"
+              ]
+            },
+            "begin-area": {
+              "sort-name": "St. Louis",
+              "type": null,
+              "id": "759f9567-9107-40ef-a825-e57824a62e70",
+              "name": "St. Louis",
+              "disambiguation": "",
+              "type-id": null
+            },
+            "life-span": {
+              "begin": "1973-04-16",
+              "ended": false,
+              "end": null
+            }
+          }
+       
+    ]
+}
